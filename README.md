@@ -10,6 +10,9 @@ We are a dynamic community of tech enthusiasts, innovators, and learners at Galg
 
 At GCET-GDSC, we embrace the spirit of curiosity and collaboration to explore the vast world of technology.
 
+# Organisation Head
+- Abhinay Goswami (Github Link-[Abhinay8506](https://github.com/Abhinay8506))
+
 ## What We Offer
 
 - 🤝 **Community Collaboration:** Join a vibrant community passionate about technology.
