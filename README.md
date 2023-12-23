@@ -23,7 +23,7 @@ Explore our AI/ML projects and contributions in our [GDSC AI/ML Repository](http
 
 Explore our APP Development projects and contributions in our [GDSC APP Dev Repository](https://github.com/orgs/GDSC-GCET/teams/gdsc-app-development).
 
-Explore our BlockChain projects and contributions in our [DGSC BlockChain Repository](https://github.com/orgs/GDSC-GCET/teams/gdsc-blockchain).
+Explore our BlockChain projects and contributions in our [GDSC BlockChain Repository](https://github.com/orgs/GDSC-GCET/teams/gdsc-blockchain).
 
 Explore our Cloud/DevOps projects and contributions in our [GDSC Cloud/DevOps Repository](https://github.com/orgs/GDSC-GCET/teams/gdsc-cloud-devops).
 
