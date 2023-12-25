@@ -11,7 +11,7 @@ We are a dynamic community of tech enthusiasts, innovators, and learners at Galg
 At GCET-GDSC, we embrace the spirit of curiosity and collaboration to explore the vast world of technology.
 
 # Organisation Head
-- Abhinay Goswami (Github Link-[Abhinay8506](https://github.com/Abhinay8506))
+- Abhinay Goswami ( Github Link - [Abhinay8506](https://github.com/Abhinay8506) )
 
 ## What We Offer
 
@@ -22,21 +22,37 @@ At GCET-GDSC, we embrace the spirit of curiosity and collaboration to explore th
 
 ## Teams and Domains
 
-Explore our AI/ML projects and contributions in our [GDSC AI/ML Repository](https://github.com/orgs/GDSC-GCET/teams/gdsc-ai-ml).
+- Explore our AI/ML projects and contributions in our
 
-Explore our APP Development projects and contributions in our [GDSC APP Dev Repository](https://github.com/orgs/GDSC-GCET/teams/gdsc-app-development).
+  [GDSC AI/ML Repository](https://github.com/orgs/GDSC-GCET/teams/gdsc-ai-ml).
 
-Explore our BlockChain projects and contributions in our [GDSC BlockChain Repository](https://github.com/orgs/GDSC-GCET/teams/gdsc-blockchain).
+- Explore our APP Development projects and contributions in our
 
-Explore our Cloud/DevOps projects and contributions in our [GDSC Cloud/DevOps Repository](https://github.com/orgs/GDSC-GCET/teams/gdsc-cloud-devops).
+  [GDSC APP Dev Repository](https://github.com/orgs/GDSC-GCET/teams/gdsc-app-development).
 
-Explore our CyberDecurity projects and contributions in our [GDSC CyberDecurity Repository](https://github.com/orgs/GDSC-GCET/teams/gdsc-cybersecurity).
+- Explore our BlockChain projects and contributions in our
 
-Explore our DataScience projects and contributions in our [GDSC DataScience Repository](https://github.com/orgs/GDSC-GCET/teams/gdsc-datascience).
+  [GDSC BlockChain Repository](https://github.com/orgs/GDSC-GCET/teams/gdsc-blockchain).
 
-Explore our Programming projects and contributions in our [GDSC Programming Repository](https://github.com/orgs/GDSC-GCET/teams/gdsc-programming).
+- Explore our Cloud/DevOps projects and contributions in our
 
-Explore our Web Devlopment projects and contributions in our [GDSC Web Devlopment Repository](https://github.com/orgs/GDSC-GCET/teams/gdsc-web-development).
+  [GDSC Cloud/DevOps Repository](https://github.com/orgs/GDSC-GCET/teams/gdsc-cloud-devops).
+
+- Explore our CyberDecurity projects and contributions in our
+
+  [GDSC CyberDecurity Repository](https://github.com/orgs/GDSC-GCET/teams/gdsc-cybersecurity).
+
+- Explore our DataScience projects and contributions in our
+
+  [GDSC DataScience Repository](https://github.com/orgs/GDSC-GCET/teams/gdsc-datascience).
+
+- Explore our Programming projects and contributions in our
+
+  [GDSC Programming Repository](https://github.com/orgs/GDSC-GCET/teams/gdsc-programming).
+  
+- Explore our Web Devlopment projects and contributions in our
+
+  [GDSC Web Devlopment Repository](https://github.com/orgs/GDSC-GCET/teams/gdsc-web-development).
 
 ## How to Contribute
 
