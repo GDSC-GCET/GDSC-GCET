@@ -38,9 +38,9 @@ At GCET-GDSC, we embrace the spirit of curiosity and collaboration to explore th
 
   [GDSC Cloud/DevOps Repository](https://github.com/orgs/GDSC-GCET/teams/gdsc-cloud-devops).
 
-- Explore our CyberDecurity projects and contributions in our
+- Explore our CyberSecurity projects and contributions in our
 
-  [GDSC CyberDecurity Repository](https://github.com/orgs/GDSC-GCET/teams/gdsc-cybersecurity).
+  [GDSC CyberSecurity Repository](https://github.com/orgs/GDSC-GCET/teams/gdsc-cybersecurity).
 
 - Explore our DataScience projects and contributions in our
 
@@ -50,7 +50,7 @@ At GCET-GDSC, we embrace the spirit of curiosity and collaboration to explore th
 
   [GDSC Programming Repository](https://github.com/orgs/GDSC-GCET/teams/gdsc-programming).
   
-- Explore our Web Devlopment projects and contributions in our
+- Explore our Web Development projects and contributions in our
 
   [GDSC Web Devlopment Repository](https://github.com/orgs/GDSC-GCET/teams/gdsc-web-development).
 
