@@ -1,6 +1,6 @@
 <img src="logo.png" alt="GCET-GDSC Logo" align="right" width="250">
 
-# Welcome to GCET-GDSC 
+# Welcome to GDSC-GCET 
 
 🤍 Google Developer Student Club - GCET Community 🤍
 
